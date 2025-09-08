@@ -1,0 +1,11 @@
+streamlit
+geopandas
+rasterio
+shapely
+torch
+torchvision
+segmentation-models-pytorch
+folium
+streamlit-folium
+buildingregulariser
+gdown

@@ -30,7 +30,7 @@ from streamlit_folium import st_folium
 # ====================== CONFIG ======================
 # Replace with your actual Release asset URL
 MODEL_URL = (
-    "https://github.com/ck1972/hwata1-app/releases/download/v0.2.0/"
+    "https://github.com/ck1972/hwata2-app/releases/download/v0.2.0/"
     "combined_hwata2_unet_transfer.pth"
 )
 MODEL_PATH = "combined_hwata2_unet_transfer.pth"
